@@ -19,5 +19,4 @@ on the internet for folks like you to enjoy. Until the day I can code
 nonstop without financial worry, I will be accepting donations through
 PayPal.
 
-You can checkout my ticalc author profile here
-http://www.ticalc.org/archives/files/authors/108/10839.html.
+You can see statistics on my content on my [ticalc author profile](http://www.ticalc.org/archives/files/authors/108/10839.html).
